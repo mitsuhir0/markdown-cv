@@ -55,26 +55,26 @@ __Researcher__, Asia Pacific Institute of Research (APIR)
 
 ##  Refereed Journal Articles
 
-1. Ida, Daisuke and Mitsuhiro Okano (2023) "Optimal monetary policy delegation in a small-open new Keynesian model with robust control", ___Economic Modelling___, Vol. 120. (in press)
+Ida, Daisuke and Mitsuhiro Okano (2023) "Optimal monetary policy delegation in a small-open new Keynesian model with robust control", ___Economic Modelling___, Vol. 120. (in press)
 
-1. Ida, Daisuke and Mitsuhiro Okano (2021) "Delegating Optimal Monetary Policy Inertia in a Small-Open Economy" ___The B.E. Journal of Macroeconomics___, vol. 21, no. 2, pp. 473-507. 
+Ida, Daisuke and Mitsuhiro Okano (2021) "Delegating Optimal Monetary Policy Inertia in a Small-Open Economy" ___The B.E. Journal of Macroeconomics___, vol. 21, no. 2, pp. 473-507. 
 
-1. Okano, Mitsuhiro and Yoshihisa Inada (2017) "Estimating regional quarterly GDP and the remaining issues", ___Statistics___, No. 113, pp. 1-16. (in Japanese)
+Okano, Mitsuhiro and Yoshihisa Inada (2017) "Estimating regional quarterly GDP and the remaining issues", ___Statistics___, No. 113, pp. 1-16. (in Japanese)
 
-1. Okano, Mitsuhiro (2014) "A Note on Exchange Rate and Japanese Monetary Policy in the 1980s/90s: A VECM Approach With Long Run Restriction", ___Statistics___, No. 106 pp. 17-28. (in Japanese)
+Okano, Mitsuhiro (2014) "A Note on Exchange Rate and Japanese Monetary Policy in the 1980s/90s: A VECM Approach With Long Run Restriction", ___Statistics___, No. 106 pp. 17-28. (in Japanese)
 
 
 ## Working Papers
 
-1. Okano Mitsuhiro (2021) "Optimal monetary policy in a two-country new Keynesian model with deep consumption habits" _MPRA Paper_ No. 110259. (Under Revision)
+Okano Mitsuhiro (2021) "Optimal monetary policy in a two-country new Keynesian model with deep consumption habits" _MPRA Paper_ No. 110259. (Under Revision)
 
-1. Ida, Daisuke and Mitsuhiro Okano (2021) "Wage flexibility and optimal monetary policy in a two-country model" _Momoyama Gakuin Discussion Paper_, No. 17. (Under Revision)
+Ida, Daisuke and Mitsuhiro Okano (2021) "Wage flexibility and optimal monetary policy in a two-country model" _Momoyama Gakuin Discussion Paper_, No. 17. (Under Revision)
 
-1. Ida, Daisuke and Mitsuhiro Okano (2018) "Delegating nominal income growth targeting in a small-open economy" _Momoyama Gakuin Discussion Paper_, No. 6.
+Ida, Daisuke and Mitsuhiro Okano (2018) "Delegating nominal income growth targeting in a small-open economy" _Momoyama Gakuin Discussion Paper_, No. 6.
 
-1. Okano, Mitsuhiro, Daisuke Ida, Shigeto Kitano and Yoichi Matsubayashi (2015) "Development of a Regional DSGE Model in Japan: Empirical Evidence of Economic Stagnation in the Kansai Economy" _APIR Discussion Paper Series_, No. 38.
+Okano, Mitsuhiro, Daisuke Ida, Shigeto Kitano and Yoichi Matsubayashi (2015) "Development of a Regional DSGE Model in Japan: Empirical Evidence of Economic Stagnation in the Kansai Economy" _APIR Discussion Paper Series_, No. 38.
 
-1. Okano, Mitsuhiro (2013) "Monetary Policy and Natural Disasters: An Extension and Simulation Analysis in the Framework of New Keynesian Macroeconomic Model" _APIR Discussion Paper Series_, No. 32.
+Okano, Mitsuhiro (2013) "Monetary Policy and Natural Disasters: An Extension and Simulation Analysis in the Framework of New Keynesian Macroeconomic Model" _APIR Discussion Paper Series_, No. 32.
 
 
 ## Conference Presentations
