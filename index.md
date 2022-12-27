@@ -4,10 +4,12 @@ title: Mitsuhiro Okano's CV
 ---
 # Mitsuhiro Okano
 Associate Professor, Faculty of Economics, Osaka Gakuin University
-2-36-1 Kishibe-Minami, Suita-shi, Osaka 564-8511, Japan
 
 
 <div id="webaddress">
+<br />
+2-36-1 Kishibe-Minami, Suita-shi, Osaka 564-8511, Japan
+<br />
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 </div>
