@@ -70,6 +70,8 @@ __Researcher__, Asia Pacific Institute of Research (APIR)
 
 1. Ida, Daisuke and Mitsuhiro Okano (2021) "Wage flexibility and optimal monetary policy in a two-country model" _Momoyama Gakuin Discussion Paper_, No. 17. (Under Revision)
 
+1. Ida, Daisuke and Mitsuhiro Okano (2018) "Delegating nominal income growth targeting in a small-open economy" _Momoyama Gakuin Discussion Paper_, No. 6.
+
 1. Okano, Mitsuhiro, Daisuke Ida, Shigeto Kitano and Yoichi Matsubayashi (2015) "Development of a Regional DSGE Model in Japan: Empirical Evidence of Economic Stagnation in the Kansai Economy" _APIR Discussion Paper Series_, No. 38.
 
 1. Okano, Mitsuhiro (2013) "Monetary Policy and Natural Disasters: An Extension and Simulation Analysis in the Framework of New Keynesian Macroeconomic Model" _APIR Discussion Paper Series_, No. 32.
