@@ -55,8 +55,11 @@ __Researcher__, Asia Pacific Institute of Research (APIR)
 
 ##  Refereed Journal Articles
 
-`Mar 2023`
-Ida, Daisuke and Mitsuhiro Okano (2023) "Optimal monetary policy delegation in a small-open new Keynesian model with robust control", ___Economic Modelling___, Vol. 120. (in press)
+`Dec 2022`
+Ida, Daisuke and Mitsuhiro Okano (2022) "International heterogeneity of nominal wages and optimal monetary policy", ___International Finance___. (accepted)
+
+`Dec 2022`
+Ida, Daisuke and Mitsuhiro Okano (2022) "Optimal monetary policy delegation in a small-open new Keynesian model with robust control", ___Economic Modelling___, Vol. 120. (in press)
 
 `Dec 2020`
 Ida, Daisuke and Mitsuhiro Okano (2021) "Delegating Optimal Monetary Policy Inertia in a Small-Open Economy" ___The B.E. Journal of Macroeconomics___, vol. 21, no. 2, pp. 473-507. 
@@ -72,9 +75,6 @@ Okano, Mitsuhiro (2014) "A Note on Exchange Rate and Japanese Monetary Policy in
 
 `Oct 2021`
 Okano Mitsuhiro (2021) "Optimal monetary policy in a two-country new Keynesian model with deep consumption habits" _MPRA Paper_ No. 110259. (Under Revision)
-
-`Apr 2021`
-Ida, Daisuke and Mitsuhiro Okano (2021) "Wage flexibility and optimal monetary policy in a two-country model" _Momoyama Gakuin Discussion Paper_, No. 17. (Under Revision)
 
 `Apr 2018`
 Ida, Daisuke and Mitsuhiro Okano (2018) "Delegating nominal income growth targeting in a small-open economy" _Momoyama Gakuin Discussion Paper_, No. 6.
