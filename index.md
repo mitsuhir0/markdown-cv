@@ -47,7 +47,7 @@ __Associate Professor__, Fucalty of Economics, Osaka Gakuin University
 __Researcher__, Analysis Team, Asia Pacific Institute of Research (APIR)
 
 `2011`
-__Researcher__, Analysis Team, Asia Pacific Institute of Research (APIR)
+__Researcher__, Analysis Team, Kansai Institute for Social and Economic Research (KISER)
 
 
 ## Professional Activities
