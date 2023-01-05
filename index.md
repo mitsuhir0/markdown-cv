@@ -31,7 +31,7 @@ __Ph.D. in Economics__, Kwansei Gakuin University
 `2007`
 __MA in Economics__, Kwansei Gakuin University 
 
-`2003`
+`2005`
 __BA in Economics withdrawal__ (because of grade-skipping), Kwansei Gakuin University 
 
 
