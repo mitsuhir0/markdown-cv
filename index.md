@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: January 2023
+Last updated: March 2023
 <br />
 </div>
 
@@ -62,7 +62,7 @@ __Researcher__, Asia Pacific Institute of Research (APIR)
 [Ida, Daisuke and Mitsuhiro Okano (2022) "International heterogeneity of nominal wages and optimal monetary policy", ___International Finance___. (published online)](https://doi.org/10.1111/infi.12429)
 
 `Dec 2022`
-[Ida, Daisuke and Mitsuhiro Okano (2022) "Optimal monetary policy delegation in a small-open new Keynesian model with robust control", ___Economic Modelling___, Vol. 120. (in press)](https://doi.org/https://doi.org/10.1016/j.econmod.2022.106154)
+[Ida, Daisuke and Mitsuhiro Okano (2022) "Optimal monetary policy delegation in a small-open new Keynesian model with robust control", ___Economic Modelling___, Vol. 120.](https://doi.org/https://doi.org/10.1016/j.econmod.2022.106154)
 
 `Dec 2020`
 [Ida, Daisuke and Mitsuhiro Okano (2021) "Delegating Optimal Monetary Policy Inertia in a Small-Open Economy" ___The B.E. Journal of Macroeconomics___, vol. 21, no. 2, pp. 473-507. ](https://doi.org/doi:10.1515/bejm-2020-0181)
