@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: March 2023
+Last updated: April 2023
 <br />
 </div>
 
@@ -52,7 +52,7 @@ __Researcher__, Analysis Team, Kansai Institute for Social and Economic Research
 
 ## Professional Activities
 
-`2015-`
+`2015-2022`
 __Researcher__, Asia Pacific Institute of Research (APIR)
 
 
@@ -130,6 +130,13 @@ Grant-in-Aid for Scientific Research (KAKENHI) for Early-Career Scientists, Proj
 Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (C), Project Number 20K01784, Co-Investigator (Principal Investigator: Daisuke Ida). “A study on international monetary policy coordination under the zero lower bound on nominal interest rates: The role of downward nominal wage rigidities”
 
 
+## Certifications
+
+`Apr 2023`
+EF Standard English Test (EF SET) English Certificate 71/100 (C2 Proficient)
+See [certificate](https://www.efset.org/cert/DahUa2)
+
+
 ## Refereeing
 
 _Economic Modeling_; 
@@ -139,6 +146,8 @@ _Asian Economic Journal_
 ## Teaching
 
 ### Current
+`2023- `
+Basics of Econometrics B, Osaka Gakuin University (in Japanese)
 
 `2022- `
 International Trade II, Osaka Gakuin University (corresopondence course, in Japanese)
