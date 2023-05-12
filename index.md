@@ -75,6 +75,9 @@ Okano, Mitsuhiro (2014) "A Note on Exchange Rate and Japanese Monetary Policy in
 
 ## Working Papers
 
+`May 2023`
+Ida, Daisuke and Mitsuhiro Okano (2023) "Does nominal wage stickiness affect fiscal multiplier in a two-agent new Keynesian model?" _MPRA Paper_ No. 117241.
+
 `Oct 2021`
 Okano Mitsuhiro (2021) "Optimal monetary policy in a two-country new Keynesian model with deep consumption habits" _MPRA Paper_ No. 110259. (Under Revision)
 
