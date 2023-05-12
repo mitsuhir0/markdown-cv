@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: April 2023
+Last updated: May 2023
 <br />
 </div>
 
