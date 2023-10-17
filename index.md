@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: May 2023
+Last updated: Oct 2023
 <br />
 </div>
 
@@ -38,10 +38,10 @@ __BA in Economics withdrawal__ (because of grade-skipping), Kwansei Gakuin Unive
 ## Employment
 
 `2019-`
-__Associate Professor__, Fucalty of Economics, Osaka Gakuin University
+__Associate Professor__, Faculty of Economics, Osaka Gakuin University
 
 `2015-2019`
-__Associate Professor__, Fucalty of Economics, Osaka Gakuin University
+__Associate Professor__, Faculty of Economics, Osaka Gakuin University
 
 `2011-2015`
 __Researcher__, Analysis Team, Asia Pacific Institute of Research (APIR)
@@ -93,6 +93,9 @@ Okano, Mitsuhiro (2013) "Monetary Policy and Natural Disasters: An Extension and
 
 ## Conference Presentations
 
+`Sep 2023`
+Japan Society of Monetary Economics Autumn Meeting, Kitakyushu University.
+
 `Sep 2017`
 Japan Society of Monetary Economics Autumn Meeting, Kagoshima University.
 
@@ -107,6 +110,9 @@ Japanese Economic Association Autumn Meeting (Poster Session), Kwansei Gakuin Un
 
 
 ## Seminar Presentations
+
+`2023`
+Kobe University
 
 `2015`
 Osaka Gakuin University
@@ -153,10 +159,10 @@ _Asian Economic Journal_
 Basics of Econometrics B, Osaka Gakuin University (in Japanese)
 
 `2022- `
-International Trade II, Osaka Gakuin University (corresopondence course, in Japanese)
+International Trade II, Osaka Gakuin University (correspondence course, in Japanese)
 
 `2022- `
-Foreign Exchange Theory, Osaka Gakuin University (corresopondence course, in Japanese)
+Foreign Exchange Theory, Osaka Gakuin University (correspondence course, in Japanese)
 
 `2017- `
 Introduction to Data Processing, Osaka Gakuin University (in Japanese) 
@@ -179,7 +185,7 @@ Economic Statistics I, Momoyama Gakuin University (in Japanese)
 Theory of Statistical Analysis, Kwansei Gakuin University (in Japanese)
 
 `2020` 
-Introduction to Quantitiative Analysis, Kwansei Gakuin University (in Japanese)
+Introduction to Quantitative Analysis, Kwansei Gakuin University (in Japanese)
 
 `2019`
 International Finance I, II (graduate), Momoyama Gakuin University (in Japanese)
@@ -225,6 +231,6 @@ Japan Society of Economic Statistics
 
 <!-- ### Footer
 
-Last updated: January 2023 -->
+Last updated: October 2023 -->
 
 
