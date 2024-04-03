@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: Oct 2023
+Last updated: Apr 2024
 <br />
 </div>
 
@@ -225,12 +225,10 @@ Introduction to Commerce and Economics (omnibus), Kwansei Gakuin Senior High Sch
 
 Japaese Economic Association; 
 Japan Society of Monetary Economics;
-Japan Economic Policy Association;
-Japan Society of Economic Statistics
 
 
 <!-- ### Footer
 
-Last updated: October 2023 -->
+Last updated: April 2024 -->
 
 
