@@ -74,6 +74,8 @@ Okano, Mitsuhiro (2014) "A Note on Exchange Rate and Japanese Monetary Policy in
 
 
 ## Working Papers
+`May 2024`
+Ida, Daisuke and Okano, Mitsuhiro and Hoshino, Satoshi (2024) "A note on stock price dynamics and monetary policy in a small open economy" _MPRA Paper_ No. 121050.
 
 `May 2023`
 Ida, Daisuke and Mitsuhiro Okano (2023) "Does nominal wage stickiness affect fiscal multiplier in a two-agent new Keynesian model?" _MPRA Paper_ No. 117241.
