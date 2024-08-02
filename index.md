@@ -58,7 +58,7 @@ __Researcher__, Asia Pacific Institute of Research (APIR)
 
 ##  Refereed Journal Articles
 `Aug 2024`
-Ida, Daisuke and Mitsuhiro Okano (2024) "Does nominal wage stickiness affect fiscal multiplier in a two-agent new Keynesian model?" ____The B.E. Journal of Macroeconomics___. *Accepted*
+Ida, Daisuke and Mitsuhiro Okano (2024) "Does nominal wage stickiness affect fiscal multiplier in a two-agent new Keynesian model?" ___The B.E. Journal of Macroeconomics___. *Accepted*
 
 `Mar 2023`
 [Ida, Daisuke and Mitsuhiro Okano (2023) "Optimal monetary policy delegation in a small-open new Keynesian model with robust control", ___Economic Modelling___, Vol. 120.](https://doi.org/https://doi.org/10.1016/j.econmod.2022.106154)
