@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: Apr 2024
+Last updated: Aug 2024
 <br />
 </div>
 
@@ -57,11 +57,14 @@ __Researcher__, Asia Pacific Institute of Research (APIR)
 
 
 ##  Refereed Journal Articles
+`Aug 2024`
+Ida, Daisuke and Mitsuhiro Okano (2024) "Does nominal wage stickiness affect fiscal multiplier in a two-agent new Keynesian model?" ____The B.E. Journal of Macroeconomics___. *Accepted*
+
 `Mar 2023`
 [Ida, Daisuke and Mitsuhiro Okano (2023) "Optimal monetary policy delegation in a small-open new Keynesian model with robust control", ___Economic Modelling___, Vol. 120.](https://doi.org/https://doi.org/10.1016/j.econmod.2022.106154)
 
 `Dec 2022`
-[Ida, Daisuke and Mitsuhiro Okano (2022) "International heterogeneity of nominal wages and optimal monetary policy", ___International Finance___. (published online)](https://doi.org/10.1111/infi.12429)
+[Ida, Daisuke and Mitsuhiro Okano (2022) "International heterogeneity of nominal wages and optimal monetary policy", ___International Finance___, Vol. 26, Issue 2, pp. 112-138.](https://doi.org/10.1111/infi.12429)
 
 `Dec 2020`
 [Ida, Daisuke and Mitsuhiro Okano (2021) "Delegating Optimal Monetary Policy Inertia in a Small-Open Economy" ___The B.E. Journal of Macroeconomics___, vol. 21, no. 2, pp. 473-507. ](https://doi.org/doi:10.1515/bejm-2020-0181)
@@ -74,11 +77,12 @@ Okano, Mitsuhiro (2014) "A Note on Exchange Rate and Japanese Monetary Policy in
 
 
 ## Working Papers
+
+`Jul 2024`
+Ida, Daisuke and Okano, Mitsuhiro (2024) "Government spending multiplier and implementation lags in a model with a cost channel" _SSRN_.
+
 `May 2024`
 Ida, Daisuke and Okano, Mitsuhiro and Hoshino, Satoshi (2024) "A note on stock price dynamics and monetary policy in a small open economy" _MPRA Paper_ No. 121050.
-
-`May 2023`
-Ida, Daisuke and Mitsuhiro Okano (2023) "Does nominal wage stickiness affect fiscal multiplier in a two-agent new Keynesian model?" _MPRA Paper_ No. 117241.
 
 `Oct 2021`
 Okano Mitsuhiro (2021) "Optimal monetary policy in a two-country new Keynesian model with deep consumption habits" _MPRA Paper_ No. 110259. (Under Revision)
@@ -231,6 +235,6 @@ Japan Society of Monetary Economics;
 
 <!-- ### Footer
 
-Last updated: April 2024 -->
+Last updated: August 2024 -->
 
 
