@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: Aug 2024
+Last updated: Apr 2025
 <br />
 </div>
 
@@ -57,8 +57,9 @@ __Researcher__, Asia Pacific Institute of Research (APIR)
 
 
 ##  Refereed Journal Articles
+
 `Aug 2024`
-Ida, Daisuke and Mitsuhiro Okano (2024) "Does nominal wage stickiness affect fiscal multiplier in a two-agent new Keynesian model?" ___The B.E. Journal of Macroeconomics___. *Accepted*
+[Ida, Daisuke and Mitsuhiro Okano (2024) "Does nominal wage stickiness affect fiscal multiplier in a two-agent new Keynesian model?" ___The B.E. Journal of Macroeconomics___, vol. 24, no. 2, pp. 883-928.](https://doi.org/10.1515/bejm-2023-0213)
 
 `Mar 2023`
 [Ida, Daisuke and Mitsuhiro Okano (2023) "Optimal monetary policy delegation in a small-open new Keynesian model with robust control", ___Economic Modelling___, Vol. 120.](https://doi.org/https://doi.org/10.1016/j.econmod.2022.106154)
@@ -138,7 +139,10 @@ Kwansei Gakuin University
 
 ## Grants
 
-`2020-2022`
+`2024-2027`
+Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (C), Project Number 24K04971, Co-Investigator (Principal Investigator: Daisuke Ida). “The Effects of Monetary Policy in a New Keynesian Framework with Income Inequality”
+
+`2020-2023`
 Grant-in-Aid for Scientific Research (KAKENHI) for Early-Career Scientists, Project Number 20K13531, Principle Investigator. “International monetary policy coordination with deep habits”
 
 `2020-2022`
@@ -155,7 +159,8 @@ See [certificate](https://www.efset.org/cert/DahUa2)
 ## Refereeing
 
 _Economic Modeling_; 
-_Asian Economic Journal_
+_Asian Economic Journal_;
+_Australian Economic Papers_
 
 
 ## Teaching
@@ -163,12 +168,6 @@ _Asian Economic Journal_
 ### Current
 `2023- `
 Basics of Econometrics B, Osaka Gakuin University (in Japanese)
-
-`2022- `
-International Trade II, Osaka Gakuin University (correspondence course, in Japanese)
-
-`2022- `
-Foreign Exchange Theory, Osaka Gakuin University (correspondence course, in Japanese)
 
 `2017- `
 Introduction to Data Processing, Osaka Gakuin University (in Japanese) 
@@ -180,6 +179,13 @@ Basics of Econometrics A, Osaka Gakuin University (in Japanese)
 International Finance A, B, Osaka Gakuin University (in Japanese)
 
 ### Past
+
+`2022-2024`
+International Trade II, Osaka Gakuin University (correspondence course, in Japanese)
+
+`2022-2024`
+Foreign Exchange Theory, Osaka Gakuin University (correspondence course, in Japanese)
+
 
 `2021` 
 International Finance, Momoyama Gakuin University (in Japanese)
@@ -235,6 +241,6 @@ Japan Society of Monetary Economics;
 
 <!-- ### Footer
 
-Last updated: August 2024 -->
+Last updated: April 2025 -->
 
 
