@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: Apr 2025
+Last updated: May 2025
 <br />
 </div>
 
@@ -58,6 +58,9 @@ __Researcher__, Asia Pacific Institute of Research (APIR)
 
 ##  Refereed Journal Articles
 
+`May 2025`
+Okano Mitsuhiro (2025) "Optimal monetary policy in a two-country new Keynesian model with deep consumption habits" _Macroeconomic Dynamics_ (Accepted)
+
 `Aug 2024`
 [Ida, Daisuke and Mitsuhiro Okano (2024) "Does nominal wage stickiness affect fiscal multiplier in a two-agent new Keynesian model?" ___The B.E. Journal of Macroeconomics___, vol. 24, no. 2, pp. 883-928.](https://doi.org/10.1515/bejm-2023-0213)
 
@@ -84,9 +87,6 @@ Ida, Daisuke and Okano, Mitsuhiro (2024) "Government spending multiplier and imp
 
 `May 2024`
 Ida, Daisuke and Okano, Mitsuhiro and Hoshino, Satoshi (2024) "A note on stock price dynamics and monetary policy in a small open economy" _MPRA Paper_ No. 121050.
-
-`Oct 2021`
-Okano Mitsuhiro (2021) "Optimal monetary policy in a two-country new Keynesian model with deep consumption habits" _MPRA Paper_ No. 110259. (Under Revision)
 
 `Apr 2018`
 Ida, Daisuke and Mitsuhiro Okano (2018) "Delegating nominal income growth targeting in a small-open economy" _Momoyama Gakuin Discussion Paper_, No. 6.
@@ -241,6 +241,6 @@ Japan Society of Monetary Economics;
 
 <!-- ### Footer
 
-Last updated: April 2025 -->
+Last updated: May 2025 -->
 
 
