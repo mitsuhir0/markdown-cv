@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: May 2025
+Last updated: June 2025
 <br />
 </div>
 
@@ -58,7 +58,7 @@ __Researcher__, Asia Pacific Institute of Research (APIR)
 
 ##  Refereed Journal Articles
 
-`May 2025`
+`Jun 2025`
 [Okano Mitsuhiro (2025) "Optimal monetary policy in a two-country new Keynesian model with deep consumption habits" ___Macroeconomic Dynamics___, Vol. 29, e113](https://doi.org/10.1017/S1365100525100187)
 
 `Aug 2024`
@@ -241,6 +241,6 @@ Japan Society of Monetary Economics;
 
 <!-- ### Footer
 
-Last updated: May 2025 -->
+Last updated: June 2025 -->
 
 
