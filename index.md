@@ -59,7 +59,7 @@ __Researcher__, Asia Pacific Institute of Research (APIR)
 ##  Refereed Journal Articles
 
 `May 2025`
-Okano Mitsuhiro (2025) "Optimal monetary policy in a two-country new Keynesian model with deep consumption habits" _Macroeconomic Dynamics_ (Accepted)
+[Okano Mitsuhiro (2025) "Optimal monetary policy in a two-country new Keynesian model with deep consumption habits" _Macroeconomic Dynamics_ , Vol. 29, e113](https://doi.org/10.1017/S1365100525100187)
 
 `Aug 2024`
 [Ida, Daisuke and Mitsuhiro Okano (2024) "Does nominal wage stickiness affect fiscal multiplier in a two-agent new Keynesian model?" ___The B.E. Journal of Macroeconomics___, vol. 24, no. 2, pp. 883-928.](https://doi.org/10.1515/bejm-2023-0213)
