@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: January 2026
+Last updated: May 2026
 <br />
 </div>
 
@@ -102,6 +102,9 @@ Okano, Mitsuhiro (2013) "Monetary Policy and Natural Disasters: An Extension and
 
 
 ## Conference Presentations
+
+`May 2026`
+Japanese Economic Association Spring Meeting, Osaka Metropolitan University.
 
 `Sep 2023`
 Japan Society of Monetary Economics Autumn Meeting, Kitakyushu University.
@@ -244,6 +247,6 @@ Japan Society of Monetary Economics;
 
 <!-- ### Footer
 
-Last updated: January 2026 -->
+Last updated: May 2026 -->
 
 
