@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: May 2026
+Last updated: June 2026
 <br />
 </div>
 
@@ -123,6 +123,9 @@ Japanese Economic Association Autumn Meeting (Poster Session), Kwansei Gakuin Un
 
 
 ## Seminar Presentations
+
+`2026`
+Hosei University
 
 `2023`
 Kobe University
@@ -247,6 +250,6 @@ Japan Society of Monetary Economics;
 
 <!-- ### Footer
 
-Last updated: May 2026 -->
+Last updated: June 2026 -->
 
 
