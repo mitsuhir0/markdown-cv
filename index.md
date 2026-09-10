@@ -13,7 +13,7 @@ Associate Professor, Faculty of Economics, Osaka Gakuin University
 <a href="okano@ogu.ac.jp">okano@ogu.ac.jp</a>
 | <a href="https://mitsuhirookano.netlify.app/">https://mitsuhirookano.netlify.app/</a>
 <br />
-Last updated: June 2026
+Last updated: September 2026
 <br />
 </div>
 
@@ -83,7 +83,7 @@ Okano, Mitsuhiro (2014) "A Note on Exchange Rate and Japanese Monetary Policy in
 ## Working Papers
 
 `Jan 2026`
-Okano, Mitsuhiro (2026) "A Unified Framework for Equilibrium Selection in DSGE Models" _arXiv_ 2601.19329. 
+Okano, Mitsuhiro (2026) "Equilibrium Selection and Closure in DSGE Solution Methods" _arXiv_ 2601.19329. (revised Sep. 2026)
 
 `Jul 2024`
 Ida, Daisuke and Okano, Mitsuhiro (2024) "Government spending multiplier and implementation lags in a model with a cost channel" _SSRN_.
@@ -175,6 +175,10 @@ _Australian Economic Papers_
 ## Teaching
 
 ### Current
+
+`2026- `
+Special Lecture in Economics D (Mathematics and Statistics for Beginning Economics Students), Osaka Gakuin University (in Japanese)
+
 `2023- `
 Basics of Econometrics B, Osaka Gakuin University (in Japanese)
 
@@ -250,6 +254,6 @@ Japan Society of Monetary Economics;
 
 <!-- ### Footer
 
-Last updated: June 2026 -->
+Last updated: September 2026 -->
 
 
